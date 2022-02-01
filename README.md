@@ -2,14 +2,14 @@
 
 base Folder
 
+## app/containers
+
+Contains the screen of app.
+
 ## app/components
 
 Contains stateless, lean components. We can use anywhere without big updates. When writing code we do not forget KISS.
 
-
-## app/containers
-
-Contains the screen of app.
 
 ## app/helper
 
