@@ -8,7 +8,7 @@ Contains the screen of app.
 
 ## app/components
 
-Contains stateless, lean components. We can use anywhere without big updates. When writing code we do not forget KISS.
+Contains stateless, lean components. which can be used anywhere without big updation
 
 
 ## app/helper
